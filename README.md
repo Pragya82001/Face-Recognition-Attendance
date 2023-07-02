@@ -9,13 +9,13 @@ which records the attendance of the person in CSV file if it is recognised by th
 
 ## Screenshots
 
-[![image.png](https://i.postimg.cc/rFwy8Rjp/image.png)](https://postimg.cc/8sxg45q8)
+[![image.png](https://i.postimg.cc/J4GSqHmQ/1.jpg)](https://postimg.cc/vcwP8B41)
 
-[![image.png](https://i.postimg.cc/W31YDVH0/image.png)](https://postimg.cc/SXHf5BqK)
+[![image.png](https://i.postimg.cc/Kvjr3nFm/2.jpg)](https://postimg.cc/ppNng5pS)
 
-[![image.png](https://i.postimg.cc/KvMq3JJp/image.png)](https://postimg.cc/PPdzBzG1)
+[![image.png](https://i.postimg.cc/jd19Dxpk/3.jpg)](https://postimg.cc/nCvT5Jcv)
 
-[![image.png](https://i.postimg.cc/cJXXGjLC/image.png)](https://postimg.cc/3y0ggtpQ)
+[![image.png](https://i.postimg.cc/SR6RBDzb/4.jpg)](https://postimg.cc/q67pncL1)
 
 ## Installation Steps
 
