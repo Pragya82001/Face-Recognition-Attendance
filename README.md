@@ -34,8 +34,8 @@ After doing all the steps above run attendance.py in any IDE or terminal....
 
 ## Tech Stack and libraries Used
 
-1.Pyhton  
-2.OpenCV-Pyhton  
+1.Python  
+2.OpenCV-Python  
 3.Tkinter  
 4.dlib  
 5.face-recognition library
