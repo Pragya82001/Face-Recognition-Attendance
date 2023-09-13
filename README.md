@@ -3,9 +3,7 @@
 This is Basically a face Recognition based attendance Desktop application
 which records the attendance of the person in CSV file if it is recognised by the application.
 
-## Demo
 
-![App Screenshot](https://i.imgur.com/DpnVbPy.gif)
 
 ## Screenshots
 
